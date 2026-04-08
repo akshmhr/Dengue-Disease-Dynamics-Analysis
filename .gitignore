@@ -1,0 +1,25 @@
+# Large data files
+Global_Mobility_Report.csv
+ind_ppp_2020.tif
+
+# COVID datasets (not used in this analysis)
+covid_19_india.csv
+COVID_StatewiseTestingDetails.csv
+covid_vaccine_statewise.csv
+
+# Generated figures (already embedded in notebook)
+fig_*.png
+
+# Generation scripts (internal)
+generate_notebook.py
+generate_report.py
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# macOS
+.DS_Store
+
+# Anaconda project files
+anaconda_projects/
