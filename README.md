@@ -21,10 +21,10 @@ Analysis of dengue trends across India using multiple data sources, covering exp
 
 | Dataset | Source | Description |
 |---------|--------|-------------|
-| `DENGUE_filtered_data.csv` | [OpenDengue](https://opendengue.org/) | National-level annual dengue case counts for India, 1991–2024 |
-| `dengue_ncvbdc_2021_2025.csv` | [NCVBDC / NVBDCP](https://nvbdcp.gov.in/index4.php?lang=1&level=0&linkid=431&lid=3715) | State and UT-wise reported dengue cases and deaths, 2021–2025 |
-| `Global_Mobility_Report.csv` | [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) | Daily % change in visits to retail, transit, workplace etc. vs baseline, 2020–2022 |
-| `ind_ppp_2020.tif` | [WorldPop](https://www.worldpop.org/geodata/summary?id=24777) | India gridded population estimates (PPP, 2020), used for per-capita calculations |
+| `DENGUE_filtered_data.csv` | OpenDengue | National-level annual dengue case counts for India, 1991–2024 |
+| `dengue_ncvbdc_2021_2025.csv` | NCVBDC / NVBDCP | State and UT-wise reported dengue cases and deaths, 2021–2025 |
+| `Global_Mobility_Report.csv` | Google COVID-19 Community Mobility Reports | Daily % change in visits to retail, transit, workplace etc. vs baseline, 2020–2022 |
+| `ind_ppp_2020.tif` | WorldPop | India gridded population estimates (PPP, 2020), used for per-capita calculations |
 
 ---
 
